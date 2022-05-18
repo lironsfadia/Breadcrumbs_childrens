@@ -1,0 +1,1 @@
+It was taken from https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/
